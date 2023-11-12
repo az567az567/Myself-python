@@ -15,3 +15,4 @@ txtpy能改變txt label檔中小數點位數
 
 rename能重命名數據集中所有照片及txt檔的名稱  
 
+tryyolo能改變txt中類別數字編號
